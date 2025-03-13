@@ -9,6 +9,9 @@ export const metadata = {
   title: "Chorulla Palli Pro | Find Mosques Nearby",
   description:
     "Discover nearby mosques during Ramadan and find locations serving food for fasting individuals.",
+  icons: {
+    icon: "/logo.ico",
+  },
   keywords: [
     "Mosque Locator",
     "Ramadan Food Finder",
